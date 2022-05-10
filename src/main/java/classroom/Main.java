@@ -1,4 +1,6 @@
-public class main {
+package classroom;
+
+public class Main {
     public static void main(String[] args) {
 
         int dogAge = 3; // Vesels skaitlis
